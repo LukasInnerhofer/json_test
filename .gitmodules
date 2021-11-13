@@ -1,0 +1,3 @@
+[submodule "libutilities"]
+	path = libutilities
+	url = https://github.com/LukasInnerhofer/libutilities
